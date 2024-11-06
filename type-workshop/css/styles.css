@@ -1,0 +1,103 @@
+.type1 {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type2 {
+    font-family: "Rubik Wet Paint", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type3 {
+    font-family: "Permanent Marker", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type4 {
+    font-family: "Mate SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type5 {
+    font-family: "Indie Flower", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type6 {
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.type7 {
+  font-family: "Playwrite GB S", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.type8{
+      font-family: "Merienda", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.type9{
+     font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.type10{
+     font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body {
+    background-color: #c2f0f3;
+}
+
+.type1 {
+    font-weight: 600;
+}
+
+.type2 {
+    letter-spacing: 6px;
+}
+
+.type3 {
+    line-height: 5;
+}
+
+.type4 {
+    font-size: 50px;
+}
+
+.type5 {
+    text-align: left;
+}
+
+.type6 {
+    text-align: right;
+}
+
+.type7 {
+    text-align: left;
+}
+
+.type8 {
+    text-align: right;
+}
+
+.type9 {
+    text-align: center;
+}
+
+.type10 {
+    text-align: center;
+}
