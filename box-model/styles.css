@@ -1,0 +1,55 @@
+.green-container{
+    background-color: green;
+    width: 600px;
+    border: 4px solid #FF0000;
+    border-radius: 16px;
+    margin: 40px auto;
+}
+
+.box-one{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: 25px auto;
+    border-radius: 10px;
+}
+
+.box-two{
+    height:190px;
+    width: 150px;
+    margin: 40px;
+    background-color: #006afc;
+    text-align:center;
+    border-radius: 10px;
+    color: white
+    
+}
+
+.box-three{
+    height: 100px;
+    width: 170px;
+    text-align:center;
+    background-color: #d88c00;
+    border-radius: 10px;
+    margin: 40px auto;
+        
+}
+
+.yellow-box{
+    background-color: yellow;
+    height: 860px;
+    width: 700px;
+    border: 3px solid #FF0000;
+    border-radius: 10px;
+}
+
+.box-four{
+    background-color: red;
+    text-align: center;
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 40px;
+    color: white;
+}
