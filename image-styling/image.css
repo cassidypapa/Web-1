@@ -1,7 +1,7 @@
 .yellow-box {
     background-color: yellow;
     width: 600px;
-    height: 2060px;
+    height: 2080px;
     border: 2px solid red;
 }
 
@@ -50,4 +50,5 @@
     margin: 75px;
     width: 450px;
     height: 300px;
+    object-fit: contain;
 }
