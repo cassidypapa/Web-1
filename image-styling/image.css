@@ -1,0 +1,53 @@
+.yellow-box {
+    background-color: yellow;
+    width: 600px;
+    height: 2060px;
+    border: 2px solid red;
+}
+
+.first-image {
+    background-image: url(IMG_5010.jpeg);
+    width: 450px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 75px;
+}
+
+.second-image{
+    background-image: url(IMG_5010.jpeg);
+    background-size: 200px;
+    width: 450px;
+    height: 300px;
+    margin: 75px;
+    object-fit: contain;
+}
+
+
+
+.third-image{
+    background-color: skyblue;
+      background-image: url(IMG_5010.jpeg);
+    background-size: 200px;
+    width: 450px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: right center;
+    margin: 75px;
+   
+}
+
+.fourth-image{
+    width: 450px;
+    height: 300px;
+    margin: 75px; 
+    
+}
+
+.fith-image{
+    background-color: skyblue;
+    background-position: bottom center;
+    margin: 75px;
+    width: 450px;
+    height: 300px;
+}
