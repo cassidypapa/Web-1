@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    padding: 80px 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.badge {
+    font-size: 12px;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+.column-one {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    width: 100%;
+}
+
+p {
+    font-size: 25px;
+    font-family: manrope;
+    display: flex;
+    flex-direction: column;
+}
+
+.background-color {
+    background-color: #fbfaf3;
+    display: flex;
+    gap: 200px;
+    width: 100%;
+    justify-content: center;
+}
+
+img {
+    width: 463px;
+    height: 435px;
+}
+
+.text-box {
+    gap: 5px;
+    width: 441px;
+    display: flex;
+    flex-direction: column;
+}
+
+.inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: manrope;
+    font-weight: 75px;
+}
+
+.p1 {
+    text-align: center;
+    font-weight: 50;
+    width: 644px;
+    font-size: 20px;
+    padding: 20px;
+    
+}
+
+.badge-2 {
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid;
+    border-radius: 20px;
+    width: fit-content;
+    text-decoration: none;
+    font-family: manrope;
+    gap: 10px;
+margin: auto;
+    
+    
+}
+
+.badge2{
+   padding: 100px;
+}
