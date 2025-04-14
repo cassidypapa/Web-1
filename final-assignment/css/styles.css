@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 700px;
+    padding: 0 16px;
+    background-image: url(../images/bluebackground.png);
+    background-size: cover;
+    color: #000;
+}
+
+.left-items {
+    align-content: center;
+    padding: 20px;
+}
+.right-items {
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+header {
+    display: flex;
+    padding: 4px 6px;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    text-shadow: 2px 2px #989898;
+    font-family: "Montagu Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 15px;
+    font-style: normal;
+}
+
+h2 {
+    color: #00cc99;
+    font-size: 30px;
+    font-family: "Paprika", system-ui;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.about-me {
+    background-color: #cfedfc;
+    background-size: cover;
+}
+
+.about-me .inner-container {
+    display: flex;
+}
+
+.image-1 {
+    padding: 80px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-one {
+    display: flex;
+    justify-content: center;
+    padding: 120px 16px;
+}
+
+.text {
+    font-size: 35px;
+    font-weight: 300;
+    padding: 80px;
+    color: #00cc99;
+    font-family: "Montagu Slab", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.teal-1 {
+    color: #05a07a;
+}
+
+.grey {
+    color: #9e9e9f;
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.portfolio {
+    display: flex;
+    align-content: flex-start;
+    flex-grow: 1;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #0f9a77;
+}
+
+img {
+    width: 100%;
+}
+
+.image-item {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 413.33px;
+}
+
+.portfolio-heading {
+    padding: 20px;
+    text-decoration: underline;
+}
