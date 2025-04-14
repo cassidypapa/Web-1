@@ -121,3 +121,21 @@ img {
     padding: 20px;
     text-decoration: underline;
 }
+
+/* mobile view */
+@media only screen and (max-width:768px) {
+        /* portfolio section */
+    
+    .portfolio {
+        padding: 80px 16px;
+        align-items: center;
+        gap: 50px;
+    }
+    
+    .image-container{
+        flex-direction: column;
+    }
+}
+
+
+
